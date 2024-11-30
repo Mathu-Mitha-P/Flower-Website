@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background-color: rgb(234, 240, 240);
+}
+.container{
+    height:550px;
+    width: 600px;
+    margin-left: 320px;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    border-color: rgb(132, 138, 138);
+    background-color: rgb(233, 227, 227);
+    padding: 20px;
+}
+.head{
+    height: 40px;
+    width: 600px;
+    background-color: rgb(236, 236, 236);
+    border-style:solid;
+    border-color: rgb(170, 177, 172);
+    text-align: center;
+   
+}
+.paymenthead{
+    font-size: 30px;
+    color: rgb(65, 224, 11);
+    padding-top: 10px;
+    
+}
+.account{
+    color: rgb(17, 233, 46);
+    font-size: 25px;
+}
+.name{
+    width: 288px;
+    height: 40px;
+    margin-right: 10px;
+    border-color: rgb(180, 192, 192);
+}
+.name::placeholder{
+    font-size: 20px;
+    color: rgb(100, 98, 96);
+}
+.email{
+    width:598px;
+    height: 40px;
+    border-color: rgb(227, 228, 230);
+    margin-top: 10px;
+}
+.email::placeholder{
+    font-size: 20px;
+    color: rgb(100, 98, 96);
+}
+.p{
+    color: rgb(17, 233, 46);
+    font-size: 25px; 
+}
+.credit{
+    height: 40px;
+    width: 290px;
+    background-color: rgb(56, 233, 12);
+    border-style:solid;
+    border-color: rgb(126, 129, 127);
+    display: inline-block;
+    margin-top: -8px;
+
+}
+.creditp{
+    color: rgb(235, 241, 236);
+    font-size: 25px; 
+    margin-left: 10px;
+}
+.paypal{
+    height: 40px;
+    width: 290px;
+    background-color: rgb(225, 235, 223);
+    border-style: solid;
+    border-color: rgb(126, 129, 127);
+    display: inline-block;
+    margin-top: -8px;
+
+
+}
+.paypalp{
+    color: rgb(76, 82, 77);
+    font-size: 25px; 
+    margin-left: 10px;
+}
+.cardno{
+    width: 288px;
+    height: 40px;
+    margin-right: 10px;
+    border-color: rgb(180, 192, 192);
+    margin-top: 20px;
+}
+.cardno::placeholder{
+    font-size: 20px;
+    color: rgb(100, 98, 96);
+}
+button{
+    margin-top: 20px;
+    height: 40px;
+    width: 600px;
+    background-color: rgb(74, 216, 8);
+}
+button::placeholder{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+            
+            
+
